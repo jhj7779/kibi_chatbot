@@ -1,1 +1,13 @@
 # kibi_chatbot
+![슬라이드1](https://user-images.githubusercontent.com/81129942/143545495-ed4cb26a-2266-4f10-9281-fca0cdb9af4e.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/81129942/143545500-89133f53-643f-41c8-ba35-4438392b49d6.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/81129942/143545504-27df9689-fab5-4694-9485-7c7d84385021.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/81129942/143545506-52874280-0850-4a7d-8330-ed675d8d049c.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/81129942/143545509-167f0936-c758-4455-84e6-773d986fa316.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/81129942/143545515-3c3c4b48-dbfa-4503-8e97-fb696edc7f8e.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/81129942/143545517-5c06305c-bf67-41a7-b583-ce870b83caef.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/81129942/143545521-11b1511b-02e5-4ba0-8ed4-3ee1626b5f6b.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/81129942/143545526-6055bda7-c91f-467c-8d32-22c534341484.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/81129942/143545532-a941284f-5ace-4a87-b59a-7b11b765da01.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/81129942/143545535-068ea2f2-965d-4759-8779-298768768b23.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/81129942/143545538-2afa006f-7142-43b9-ac6d-7bfe826d20dc.PNG)
